@@ -1,0 +1,86 @@
+table,tr{
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+  }
+
+.c{
+           width: 80%;
+           margin: auto;
+           overflow: hidden;
+            text-align: center;
+           
+	}
+header{
+	background:#666;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #ffa500 3px solid;
+    border-top: #ffa500 3px solid;
+    color: black;
+    border-right:  #ffa500 3px solid;
+    border-left:  #ffa500 3px solid;
+    text-align: center;
+    
+    
+}
+header a{
+	color:white;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 30px;
+	text-align: center;
+	line-height: 63.43px;
+}
+
+ul{
+	margin: 0;
+	padding: 0;
+}
+
+header li{
+	float: left;
+	display: inline;
+	padding: 0 20px 0 20px;
+	text-align: center;
+}
+h1{
+	text-align: right;
+	display: inline;
+	margin:auto;
+	overflow: hidden;
+	text-align: center;
+	color: pink;
+	 font-family: 'Tangerine', serif;
+	 font-size: 50px;
+}
+  p{
+  	
+	font-size: 7px;
+	line-height: 2;
+	padding: 0;
+	margin:0;
+    color:green;
+    font-family: 'Just Another Hand', cursive;
+    font-size: 48px;
+    text-align: center;
+    object-position: center;
+  }
+li 
+   {
+   	list-style-position: inside;
+   }
+
+    ol
+  {
+  	text-align:center;
+  	list-style-position: inside;
+  	font-size: 7px;
+	line-height: 2;
+	width: 70%;
+    margin: auto;
+    color:brown;
+    font-family: 'Dancing Script', cursive;
+    font-size: 48px;
+   }
+
